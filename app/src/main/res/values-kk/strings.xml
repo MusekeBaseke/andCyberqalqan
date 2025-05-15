@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="app_name">CyqberQalqan</string>
+    <string name="app_name">CyberQalqan</string>
     <string name="navigation_drawer_open">Навигация тартпасы</string>
     <string name="navigation_drawer_close">Жабу навигация тартпасы</string>
-    <string name="scan">Сканерлеу</string>
+    <string name="scan">Сканер жасау</string>
     <string name="scanningApplications">Сканерлеу қосымшалары</string>
     <string name="appIcon">Қолданба белгішесі</string>
     <string name="stop">Тоқтату</string>
@@ -42,11 +42,11 @@
     <string name="safe">Қауіпсіз</string>
     <string name="risky">Тәуекелді</string>
     <string name="unknown">Белгісіз</string>
-    <string name="scan_now">Қазір қарап шығу</string>
+    <string name="scan_now">Сканерлеу</string>
     <string name="settings_title">Параметрлер</string>
     <string name="help_title">Көмектесу</string>
     <string name="app_settings">Қолданба параметрлері</string>
-    <string name="real_time_scan">Нақты уақытты қарап шығу</string>
+    <string name="real_time_scan">Нақты уақытты сканерлеу</string>
     <string name="real_time_scan_summary">Автоматты түрде жаңа қосымшаларды сканерлеңіз</string>
     <string name="scan_system_apps">Сканерлеу жүйесінің қолданбалары (Қате-бейім)</string>
     <string name="scan_system_apps_summary">Сканерлеу кезінде жүйелік бағдарламаларды қамтиды \ n (ұсынылмайды)</string>

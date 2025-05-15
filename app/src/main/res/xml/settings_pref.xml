@@ -24,30 +24,6 @@
             android:title="@string/dark_mode"
             app:iconSpaceReserved="false" />
     </PreferenceCategory>
-    <PreferenceCategory
-        android:title="@string/help_and_support"
-        app:iconSpaceReserved="false">
-        <Preference
-            android:summary="@string/rate_this_app_summary"
-            android:title="@string/rate_this_app"
-            app:iconSpaceReserved="false">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://forms.gle/XP47qNy4njcXPv266" />
-        </Preference>
-        <Preference
-            android:summary="@string/open_source_libraries_summary"
-            android:title="@string/open_source_libraries"
-            app:iconSpaceReserved="false">
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:targetClass="tech.projectmatris.antimalwareapp.activities.CustomAboutLibrariesActivity"
-                android:targetPackage="tech.projectmatris.antimalwareapp" />
-        </Preference>
-        <Preference
-            android:summary="@string/app_version"
-            android:title="@string/app_version_text"
-            app:iconSpaceReserved="false" />
-    </PreferenceCategory>
+
 
 </PreferenceScreen>
