@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![License Info](https://img.shields.io/badge/license-GNU_GPLv3-blue.svg?style=flat-square)](https://github.com/projectmatris/antimalwareapp) [![F-Droid](https://img.shields.io/f-droid/v/tech.projectmatris.antimalwareapp.svg)](https://f-droid.org/packages/tech.projectmatris.antimalwareapp) [![build](https://github.com/projectmatris/antimalwareapp/actions/workflows/android.yml/badge.svg?branch=development)](https://github.com/projectmatris/antimalwareapp/actions/workflows/android.yml) [![Chat - Matrix](https://img.shields.io/badge/chat-Matrix-blue.svg)](https://matrix.to/#/#LibreAV:matrix.org) [![Crowdin](https://badges.crowdin.net/libreav/localized.svg)](https://crowdin.com/project/libreav)
 
 ![LibreAV Banner v1.0](https://res.cloudinary.com/dixyd9fa6/image/upload/v1594366724/githubbanner_oyc3ly.png)
@@ -65,3 +66,6 @@ An unmodified copy of the above license text must be included in all forks.
 
 > Android is a trademark of Google LLC.
 
+=======
+
+>>>>>>> 2dc2a4e1291fde6005d5c8bce1dad6ac459d001d
